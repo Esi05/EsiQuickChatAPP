@@ -1,1 +1,15 @@
-/nbproject/
+ChatApp/
+  src/
+    main/
+      java/
+        Login.java
+        Main.java
+    test/
+      java/
+        LoginTest.java
+  .github/
+    workflows/
+      testJava.yml
+  pom.xml
+  .gitignore
+  README.md
