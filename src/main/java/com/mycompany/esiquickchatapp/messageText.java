@@ -12,11 +12,7 @@ import java.util.Random;
  *
  * @author MakaB
  */
-public class Message {
-    import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Random;
-import org.json.JSONObject;
+class messageText {
 
 /**
  *
@@ -137,7 +133,6 @@ public class Messages {
         /**
          * Returns all message details in required order:
          * Message ID, Message Hash, Recipient, Message.
-         * @return 
          */
         public String printMessages() {
             return "Message ID: "   + messageID   + "\n"
@@ -148,7 +143,6 @@ public class Messages {
 
         /**
          * Returns the total number of messages created so far.
-         * @return 
          */
         public int returnTotalMessages() {
             return totalMessages;

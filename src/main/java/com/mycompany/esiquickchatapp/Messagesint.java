@@ -8,10 +8,6 @@ package com.mycompany.esiquickchatapp;
  *
  * @author MakaB
  */
-class JSONObject {
-
-    void put(String messageID, String messageID0) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+class Messagesint {
     
 }
